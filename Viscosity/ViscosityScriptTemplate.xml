@@ -1,0 +1,10 @@
+<script>
+	<name>viscosity-helper-install.sh</name>
+	<category>Testing</category>
+	<filename>viscosity-helper-install.sh</filename>
+	<info>Installs the Viscosity Helper Tools with the installation of Viscosity</info>
+	<notes />
+	<priority>After</priority>
+	<parameters />
+	<os_requirements />
+</script>

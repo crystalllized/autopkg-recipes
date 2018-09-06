@@ -47,6 +47,15 @@
 		<dict>
 			<key>Arguments</key>
 			<dict>
+				<key>scripts</key>
+				<array>
+					<dict>
+						<key>name</key>
+						<string>viscosity-helper-install.sh</string>
+						<key>template_path</key>
+						<string>ViscosityScriptTemplate.xml</string>
+					</dict>
+				</array>
 				<key>category</key>
 				<string>%CATEGORY%</string>
 				<key>groups</key>
